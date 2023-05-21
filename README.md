@@ -15,3 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# flutter_test_basics" 
+
+//Este es un test de una aplicaci¨®n b¨¢sica dond ehay botones, envio //de datos al debug console, estilo de app bar, quitar el debbug //console, etc.
